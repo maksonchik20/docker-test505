@@ -1,0 +1,1 @@
+web: gunicorn dockertest505.wsgi --log-file -
